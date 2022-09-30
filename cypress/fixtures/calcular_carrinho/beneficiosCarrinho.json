@@ -1,0 +1,509 @@
+{       
+    "requestPadrao":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+   
+      ]
+    },
+    
+    "beneficioFreteAcrescimoRegiaoProdutoPorcentagem":
+    {
+      "IdCampanha": 3582,
+      "Produtos": [ 
+        {
+          "Codigo": 867693,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "acrescimo",
+          "valorAplicado": 10
+        }
+      ]
+    },
+
+    "negativoBeneficioFreteAcrescimoRegiaoProdutoPorcentagem":
+    {
+      "IdCampanha": 3582,
+      "Produtos": [ 
+        {
+          "Codigo": 10502423,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "acrescimo",
+          "valorAplicado": 10
+        }
+      ]
+    },
+
+    "beneficioFreteAcrescimoCidadeCategoriaReais":
+    {
+      "IdCampanha": 3582,
+      "Produtos": [ 
+        {
+          "Codigo": 867693,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "acrescimo",
+          "valorAplicado": 5.0,
+          "tipoValor": "reais"
+        }
+      ]
+    },
+
+    "beneficioFreteAcrescimoCidadeCategoriaMaiorReais":
+    {
+      "IdCampanha": 3582,
+      "Produtos": [ 
+        {
+          "Codigo": 867693,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "acrescimo",
+          "valorAplicado": 5.0,
+          "tipoValor": "reais"
+        }
+      ]
+    },
+
+    "beneficioFreteDescontoRegiaoProdutoPorcentagem":
+    {
+      "IdCampanha": 3710,
+      "Produtos": [ 
+        {
+          "Codigo": 4688134,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "desconto",
+          "valorAplicado": 10
+        }
+      ]
+    },
+
+    "negativoBeneficioFreteDescontoRegiaoProdutoPorcentagem":
+    {
+      "IdCampanha": 3710,
+      "Produtos": [ 
+        {
+          "Codigo": 196107,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "desconto",
+          "valorAplicado": 10
+        }
+      ]
+    },
+
+    "beneficioFreteDescontoRegiaoMarcaPorcentagem":
+    {
+      "IdCampanha": 3591,
+      "Produtos": [ 
+        {
+          "Codigo": 400725,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "desconto",
+          "valorAplicado": 15
+        }
+      ]
+    },
+
+    "negativoBeneficioFreteDescontoRegiaoMarcaPorcentagem":
+    {
+      "IdCampanha": 3591,
+      "Produtos": [ 
+        {
+          "Codigo": 1001294413,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "desconto",
+          "valorAplicado": 15
+        }
+      ]
+    },
+
+    "beneficioFreteDescontoCidadeCategoriaPorcentagem":
+    {
+      "IdCampanha": 2615,
+      "CEP": "09510125",
+      "Produtos": [ 
+        {
+          "Codigo": 411048,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "desconto",
+          "valorAplicado": 100.0,
+          "tipoValor": "porcentagem"
+        }
+      ]
+    },
+
+    "beneficioFreteFixoRegiaoProdutoPorcentagem":
+    {
+      "IdCampanha": 3594,
+      "Produtos": [ 
+        {
+          "Codigo": 1990239,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "fixo",
+          "valorAplicado": 10,
+          "valor": 20,
+          "tipoValor": "porcentagem"
+        }
+      ]
+    },
+
+    "beneficioFreteFixoCidadeCategoriaReais":
+    {
+      "IdCampanha": 3582,
+      "Produtos": [ 
+        {
+          "Codigo": 867693,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "fixo",
+          "valorAplicado": 5.0,
+          "valor": 20,
+          "tipoValor": "reais"
+        }
+      ]
+    },
+
+    "beneficioFreteFixoRegiaoCategoriaReais":
+    {
+      "IdCampanha": 2610,
+      "Produtos": [ 
+        {
+          "Codigo": 411048,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "fixo",
+          "valorAplicado": 17.55,
+          "valor": 20,
+          "tipoValor": "reais"
+        }
+      ]
+    },
+
+    "negativoBeneficioFreteFixoRegiaoCategoriaReais":
+    {
+      "IdCampanha": 2610,
+      "CEP": "66020390",
+      "Produtos": [ 
+        {
+          "Codigo": 1001307417,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "fixo",
+          "valorAplicado": 17.55,
+          "valor": 20,
+          "tipoValor": "reais"
+        }
+      ]
+    },
+
+    "beneficioFreteFixoRegiaoCategoriaPorcentagem":
+    {
+      "IdCampanha": 3679,
+      "CNPJ": "50.706.019/0001-26",
+      "Produtos": [ 
+        {
+          "Codigo": 11008879,
+          "Quantidade": 1,
+          "IdLojista": 10037
+
+        }
+      ],
+
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "fixo",
+          "valorAplicado": 13.0,
+          "valor": 20,
+          "tipoValor": "porcentagem"
+        }
+      ]     
+    },
+
+    "padraoBeneficioFreteFixoRegiaoCategoriaCompraMenorIgualReais":
+    {
+      "IdCampanha": 3597,
+      "CEP": "65072510", 
+      "Produtos": [ 
+        {
+          "Codigo": 55017288,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "fixo",
+          "valorAplicado": 15.0,
+          "valorCompra": 118.90,
+          "tipoValor": "reais", 
+          "operador": "menorIgual"
+        }
+      ]
+    },
+
+    "beneficioFreteAcrescimoRegiaoMarcaPorcentagem":
+    {
+      "IdCampanha": 3584,
+      "Produtos": [ 
+        {
+          "Codigo": 21621,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "acrescimo",
+          "valorAplicado": 20
+        }
+      ]
+    },
+
+    "negativoBeneficioFreteAcrescimoRegiaoMarcaPorcentagem":
+    {
+      "IdCampanha": 3584,
+      "Produtos": [ 
+        {
+          "Codigo":  3061127,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "acrescimo",
+          "valorAplicado": 20
+        }
+      ]
+    },
+    
+    "beneficioFreteAcrescimoRegiaoCategoriaCompraIgualReais":
+    {
+      "IdCampanha": 3585,
+      "Produtos": [ 
+        {
+          "Codigo": 55018094,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "acrescimo",
+          "valorAplicado": 5.0,
+          "valorCompra": 25.90,
+          "tipoValor": "reais", 
+          "operador": "igual"
+        }
+      ]
+    },
+
+    "beneficioFreteDescontoRegiaoCategoriaCompraMaiorIgualReais":
+    {
+      "IdCampanha": 3592,
+      "Produtos": [ 
+        {
+          "Codigo": 1000054494,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "desconto",
+          "valorAplicado": 25.0,
+          "valorCompra": 409.90,
+          "tipoValor": "reais", 
+          "operador": "maiorIgual"
+        }
+      ]
+    },
+
+    "beneficioFreteDescontoRegiaoCategoriaCompraMenorReais":
+    {
+      "IdCampanha": 3603,
+      "Produtos": [ 
+        {
+          "Codigo": 22339,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "desconto",
+          "valorAplicado": 5.0,
+          "valorCompra": 279.0,
+          "tipoValor": "reais", 
+          "operador": "menor"
+        }
+      ]
+    },
+
+    "beneficioFreteDescontoRegiaoProdutoMaximoPorcentage":
+    {
+      "IdCampanha": 3587,
+      "Produtos": [ 
+        {
+          "Codigo": 55016473,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "desconto",
+          "valorAplicado": 30.0,
+          "porcentagem": 15.0,
+          "tipoValor": "porcentagem", 
+          "operador": "maximo"
+        }
+      ]
+    },
+
+    "negativoBeneficioFreteDescontoRegiaoProdutoMaximoPorcentage":
+    {
+      "IdCampanha": 3587,
+      "Produtos": [ 
+        {
+          "Codigo": 1001307417,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "desconto",
+          "valorAplicado": 30.0,
+          "porcentagem": 15.0,
+          "tipoValor": "porcentagem", 
+          "operador": "maximo"
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteDescontoRegiaoProdutoMaximoPorcentage":
+    {
+      "IdCampanha": 3587,
+      "Produtos": [ 
+        {
+          "Codigo": 1001307417,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "desconto",
+          "valorAplicado": 30.0,
+          "porcentagem": 15.0,
+          "tipoValor": "porcentagem", 
+          "operador": "maximo"
+        }
+      ]
+    },
+
+    "beneficioFreteAcrescimoRegiaoProdutoMinimoPorcentagem":
+    {
+      "IdCampanha": 3602,
+      "Produtos": [ 
+        {
+          "Codigo": 11008815,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "acrescimo",
+          "valorAplicado": 50.0,
+          "porcentagem": 30.0,
+          "tipoValor": "porcentagem", 
+          "operador": "minimo"
+        }
+      ]
+    },
+
+    "negativoBeneficioFreteAcrescimoRegiaoProdutoMinimoPorcentagem":
+    {
+      "IdCampanha": 3602,
+      "CEP": "78005035",
+      "Produtos": [ 
+        {
+          "Codigo": 11008815,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ],
+      "beneficiosCampanha": [ 
+        {
+          "tipo": "acrescimo",
+          "valorAplicado": 50.0,
+          "porcentagem": 30.0,
+          "tipoValor": "porcentagem", 
+          "operador": "minimo"
+        }
+      ]
+    }
+
+}

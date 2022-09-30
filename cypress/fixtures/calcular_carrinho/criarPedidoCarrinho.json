@@ -1,0 +1,101 @@
+{
+  "criarPedidoRequisicaoNormalEKit": {
+    "IdCampanha": 2604,
+    "CNPJ": "57.822.975/0001-12",
+    "CEP": "02116001",
+    "Produtos": [
+      {
+        "Codigo": 1001294413,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      },
+      {
+        "Codigo": 11526505,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      }
+    ]
+  },
+  "criarPedidoUnidadeNegocioInvalida": {
+    "IdCampanha": 2604,
+    "CNPJ": "57.822.975/0001-12",
+    "CEP": "02116001",
+    "Produtos": [
+      {
+        "Codigo": 1001294413,
+        "Quantidade": 1,
+        "IdLojista": 9999
+      },
+      {
+        "Codigo": 11526505,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      }
+    ]
+  },
+  "criarPedidoComUmProduto": {
+    "IdCampanha": 2604,
+    "CNPJ": "57.822.975/0001-12",
+    "CEP": "02116001",
+    "Produtos": [
+      {
+        "Codigo": 1001294413,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      }
+    ]
+  },
+  "criarPedidoCBUnico": {
+    "IdCampanha": 2604,
+    "Cnpj": "57.822.975/0001-12",
+    "Cep": "02116001",
+    "Produtos": [
+      {
+        "Codigo": 55014764,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      }
+    ]
+  },
+  "criarPedidoCbKit": {
+    "IdCampanha": 2604,
+    "Cnpj": "57.822.975/0001-12",
+    "Cep": "02116001",
+    "Produtos": [
+      {
+        "Codigo": 1001294523,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      }
+    ]
+  },
+  "criarPedidoCbKitComUnico": {
+    "IdCampanha": 2604,
+    "Cnpj": "57.822.975/0001-12",
+    "Cep": "02116001",
+    "Produtos": [
+      {
+        "Codigo": 1001294523,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      },
+      {
+        "Codigo": 55014764,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      }
+    ]
+  },
+  "criarPedidoCbKitQtdeSuperior": {
+    "IdCampanha": 2604,
+    "Cnpj": "57.822.975/0001-12",
+    "Cep": "02116001",
+    "Produtos": [
+      {
+        "Codigo": 1001294523,
+        "Quantidade": 2,
+        "IdLojista": 10037
+      }
+    ]
+  }
+}

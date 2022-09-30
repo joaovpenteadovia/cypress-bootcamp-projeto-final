@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://api-integracao-casasbahia.hlg-b2b.net",
+    "allure": "true",
+    "ambiente": "hlg",
+    "ApiPreco": "http://api-preco-b2b.hlg-b2b.net/skus/parceiros"
+}

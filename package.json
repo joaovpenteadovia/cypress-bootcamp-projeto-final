@@ -25,5 +25,8 @@
     "cypress-grep": "2.13.1",
     "cypress-xpath": "1.6.2",
     "faker-br": "^0.4.1"
+  },
+  "dependencies": {
+    "joi": "^17.6.2"
   }
 }

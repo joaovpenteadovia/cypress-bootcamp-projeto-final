@@ -1,0 +1,19 @@
+{   
+    "dadosUrlApiPrecoHistoricoSkuKitENormal":[
+
+        {
+            "idParceiro": 2,
+            "idCampanha": 2604,
+            "idLojista": 10037,
+            "idsSkus": 1001104832
+          },
+
+        {
+          "idParceiro": 2,
+          "idCampanha": 2604,
+          "idLojista": 10037,
+          "idsSkus": 11526505
+        }
+
+    ]
+}

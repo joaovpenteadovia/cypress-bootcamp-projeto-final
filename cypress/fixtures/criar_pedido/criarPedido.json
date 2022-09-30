@@ -1,0 +1,1093 @@
+{   
+    "requisicaoNormalEKit":
+    {
+        "Produtos": [
+        {
+            "Codigo": 1001104832,
+            "Quantidade": 1,
+            "PrecoVenda": 0
+        },
+        {
+            "Codigo": 11526505,
+            "Quantidade": 1,
+            "PrecoVenda": 0
+        }        
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "dadosEntrega": {
+            "valorFrete": 43.48
+        },
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+  
+        "requisicaoKitEKit":
+        {
+            "Produtos": [
+            {
+                "Codigo": 1001294413,
+                "Quantidade": 3,
+                "PrecoVenda": 0
+            },
+            {
+                "Codigo": 1001113102,
+                "Quantidade": 3,
+                "PrecoVenda": 0
+            }        
+            ],
+            "campanha": 2604,
+            "cnpj": "57.822.975/0001-12",
+            "pedidoParceiro": 0,
+            "valorFrete": 0,
+            "aguardarConfirmacao": true,
+            "optantePeloSimples": true,
+            "dadosEntrega": {
+                "valorFrete": 43.48
+            },
+            "destinatario": {
+                "nome": "teste",
+                "cpfCnpj": "435.375.660-50",
+                "email": "teste@teste.com"
+            },
+            "enderecoEntrega": {
+                "cep": "02116001",
+                "estado": "SP",
+                "logradouro": "Rua Silva",
+                "cidade": "São Caetano do Sul",
+                "numero": 63,
+                "referencia": "teste",
+                "bairro": "Centro",
+                "complemento": "teste",
+                "telefone": "22333333",
+                "telefone2": "22333335",
+                "telefone3": "22333336"
+            }
+        },
+
+    "requisicaoNormalENormal":
+    {
+        "Produtos": [
+        {
+            "Codigo": 867670,
+            "Quantidade": 1,
+            "PrecoVenda": 0
+        },
+        {
+            "Codigo": 426758,
+            "Quantidade": 1,
+            "PrecoVenda": 0
+        }        
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "dadosEntrega": {
+            "valorFrete": 43.48
+        },
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+
+
+    "requisicaoSemProdutos":
+    {
+        "Produtos": [],
+            "campanha": 2604,
+            "cnpj": "57.822.975/0001-12",
+            "pedidoParceiro": 0,
+            "valorFrete": 0,
+            "aguardarConfirmacao": true,
+            "optantePeloSimples": true,
+            "dadosEntrega": {
+                "valorFrete": 43.48
+            },
+            "destinatario": {
+                "nome": "teste",
+                "cpfCnpj": "435.375.660-50",
+                "email": "teste@teste.com"
+            },
+            "enderecoEntrega": {
+                "cep": "02116001",
+                "estado": "SP",
+                "logradouro": "Rua Silva",
+                "cidade": "São Caetano do Sul",
+                "numero": 63,
+                "referencia": "teste",
+                "bairro": "Centro",
+                "complemento": "teste",
+                "telefone": "22333333",
+                "telefone2": "22333335",
+                "telefone3": "22333336"
+            }
+    },
+
+    "requisicaoProdutosRepetidos":
+    {
+        "Produtos": [
+            {
+                "Codigo": 1001294413,
+                "Quantidade": 1,
+                "PrecoVenda": 0
+            },
+                 {
+                "Codigo": 1001294413,
+                "Quantidade": 1,
+                "PrecoVenda": 0
+            }
+        ],
+            "campanha": 2604,
+            "cnpj": "57.822.975/0001-12",
+            "pedidoParceiro": 0,
+            "valorFrete": 0,
+            "aguardarConfirmacao": true,
+            "optantePeloSimples": true,
+            "dadosEntrega": {
+                "valorFrete": 43.48
+            },
+            "destinatario": {
+                "nome": "teste",
+                "cpfCnpj": "435.375.660-50",
+                "email": "teste@teste.com"
+            },
+            "enderecoEntrega": {
+                "cep": "02116001",
+                "estado": "SP",
+                "logradouro": "Rua Silva",
+                "cidade": "São Caetano do Sul",
+                "numero": 63,
+                "referencia": "teste",
+                "bairro": "Centro",
+                "complemento": "teste",
+                "telefone": "22333333",
+                "telefone2": "22333335",
+                "telefone3": "22333336"
+            }
+    },
+
+    "criarPedidoUnidadeNegocioInvalida":
+    {
+        "Produtos": [
+        {
+            "Codigo": 1001294413,
+            "Quantidade": 1,
+            "PrecoVenda": 0,
+            "IdLojista": 9999
+        },
+        {
+            "Codigo": 11526505,
+            "Quantidade": 1,
+            "PrecoVenda": 0
+        }        
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "dadosEntrega": {
+            "valorFrete": 43.48
+        },
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+
+    "criarPedidoUmProduto":
+    {
+        "Produtos": [
+        {
+            "Codigo": 1001294413,
+            "Quantidade": 1,
+            "PrecoVenda": 0,
+            "IdLojista": 10037
+        }        
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "dadosEntrega": {
+            "valorFrete": 43.48
+        },
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+
+    "validacaoToken":[        
+    {
+        "tokenOk": "H9xO4+R8GUy+18nUCgPOlg=="
+    },
+    {
+        "tokenClienteInvalido": "2tcq9srN40299EvXZMcVtA=="
+    }
+
+    ],
+
+    
+  "validacaoObrigatoriedadeInvalido":[
+
+    {
+      "Codigo": "inválido",
+      "requestInvalida": "Request nulo ou em branco"
+    },
+    
+    {
+      "mensagemGenerica": "Ocorreram erros de validação"
+    },
+
+    {
+        "campanha": 0,
+        "campanhaVazia": "O campo IdCampanha é obrigatório."
+    },
+
+    {
+        "cnpj": "",
+        "cnpjVazio": "O campo CNPJ é obrigatório."
+    },
+
+    {
+        "cpfCnpj": "",
+        "cpfCnpjDestinatarioVazio": "O CPF/CNPJ do destinatário deve ser informado."
+    },
+
+    {
+        "email": "",
+        "emailDestinatarioVazio": "O Email do destinatário deve ser informado."
+    },
+
+    {
+        "nome": "",
+        "nomeDestinatarioVazio": "O nome do destinatário deve ser informado."
+    },
+
+    {
+        "bairro": "",
+        "bairroVazio": "O campo bairro deve ser informado."
+    },
+    {
+        "CEP": "",
+        "cepVazio": "O CEP deve ser informado."
+    },
+    {
+        "cidade": "",
+        "cidadeVazia": "A cidade deve ser informada."
+    },
+    {
+        "estado": "",
+        "estadoVazio": "O Estado deve ser informado."
+    },
+    {
+        "logradouro": "",
+        "logradouroVazio": "O Logradouro deve ser informado."
+    },
+
+    {
+        "numero": 0,
+        "complemento": "",
+        "numeroComplementoVazio": "O campo número ou complemento é obrigatório."
+    },
+
+    {
+        "telefone": "",
+        "telefoneVazio": "O telefone deve ser informado."
+    },
+
+    {
+        "produtosVazio": "Os dados do produto devem ser informados."
+    },
+
+    {
+        "Quantidade": 0,
+        "quantidadeVazia": "A quantidade do produto deve ser informada."
+    },
+
+    {
+        "Codigo": 0,
+        "codigoVazio": "O código do produto deve ser informado."
+    }
+
+],
+
+    "validacaoDadosInvalidos":[
+
+        {
+            "cpfCnpj": "123545484654584854545453534535353424213423424242322",
+            "cpfCnpjDestinatarioLimite": "CPF/CNPJ com mais de 50 caracteres."
+        },
+        
+           {
+            "cpfCnpj": "154.584.84-54",
+            "cpfCnpjDestinatarioInvalido": "CPF/CNPJ Inválido."
+        },
+
+        {
+            "email": "testetestecom",
+            "emailDestinatarioInvalido": "E-mail do destinatário inválido."
+        },
+
+        {
+            "email": "2aaaaaaaaaaaarrrrraaaaaaaaarrrrrrrrrrrraaaaaarrrrrrrraarrrrraaaaaaaaaaaadrrrrrrrrrdaaaaaa@hotmail.com",
+            "emailDestinatarioLimite": "E-mail do destinatário com mais de 100 caracteres."
+        },
+
+        {
+            "nome": "jose da silva sauro de moises do norte aparecida do sul oliveira junior dolores maria do norte do sul da china do brasil moises do sul do norte da aparecida de olinda do sul da chinaaaaaaa do brasil op",
+            "nomeDestinatarioLimite": "Nome do destinatário com mais de 200 caracteres."
+        },
+
+        {
+            "bairro": "jose da silva sauro de moises do norte aparecida do sul oliveira juniorrrrrr dolores maria do nortess",
+            "bairroLimite": "Bairro com mais de 100 caracteres."
+        },
+
+        {
+            "complemento": "jose da silva sauro de moises do norte aparecida do sul oliveira juniorrrrrr dolores maria do norterr",
+            "complementoLimite": "Complemento com mais de 100 caracteres."
+        },
+
+        {
+            "cep": "04384-03222",
+            "cepLimite": "CEP com mais de 10 caracteres."
+        },
+
+        {
+            "cep": "04384-0",
+            "cepLimiteMin": "O campo CEP não contém um formato correto."
+        },
+
+        {
+            "cidade": "jose da silva sauro de moises do norte aparecida do sul oliveira juniorrrrrr dolores maria do norterr",
+            "cidadeLimite": "Cidade com mais de 100 caracteres."
+        },
+
+        {
+            "estado": "SSP",
+            "estadoLimite": "O Estado deve conter 2 caracteres."
+        },
+        
+        {
+            "logradouro": "jose da silva sauro de moises do norte aparecida do sul oliveira junior dolores maria do norte do sul da china do brasil moises do sul do norte da aparecida de olinda do sul da chinaaaaaaa do brasil op",
+            "logradouroLimite": "Logradouro com mais de 200 caracteres."
+        },
+
+        {
+            "numero": 100000,
+            "numeroLimite": "O valor máximo para o número do endereço de entrega é 99999."
+        },
+        
+        {
+            "referencia": "123",
+            "referenciaLimite": "Ponto de referência deve conter no mínimo 4 caracteres."
+        },
+
+        {
+            "referencia": "jose da silva sauro de moises do norte aparecida do sul oliveira junior dolores maria do norte do sul",
+            "referenciaLimiteMax": "Ponto de referência com mais de 100 caracteres."
+        },
+
+        {
+            "telefone": "225555555555555555555555555555555555555555555544441",
+            "telefoneLimite": "Telefone com mais de 50 caracteres."
+        },
+
+        {
+            "pedidoParceiro": 5313277060123456,
+            "pedidoParceiroLimite": "Pedido parceiro com mais de 15 caracteres."
+        },
+        
+        {
+            "cep": "123456-789",
+            "cepInexistente": "CEP não encontrado."
+        },
+
+        {
+            "estado": "S",
+            "estadoLimiteMin": "O Estado deve conter 2 caracteres."
+        },
+        
+        {
+            "IdLojista": 16,
+            "idLojistaInvalido": "IdLojista inválido."
+        },
+
+        {
+            "administrador": 0,
+            "administradorInvalido": "Administrador inválido."
+        },
+
+        {
+            "produtosDuplicados": "SKU 1001294413 - O produto foi informado mais de uma vez na lista."
+        }
+    ],
+
+    "validacaoCampanha":[
+
+        {
+            "campanha": 9999,      
+            "campanhaInvalida": "Campanha não encontrada."
+          },
+      
+          {
+            "campanha": 2302,      
+            "campanhaNaoParceiro": "A campanha não pertence ao cliente informado."
+          },
+      
+          {
+            "campanha": 3024,      
+            "campanhaExpirada": "Campanha fora de vigência."
+          },
+      
+          {
+            "campanha": 3076,      
+            "campanhaClienteInativo": "Cliente inativo."
+          },
+      
+          {
+            "campanha": 2448,      
+            "campanhaSemEndCobranca": "Endereço de cobrança não está associado."
+          }
+      
+        ],
+    
+
+    "validacaoPedidoParceiro":[
+    
+        {
+            "pedidoParceiro": 98112911, 
+            "pedidoParceiroExistente" : "Pedido já registrado."
+        }
+
+    ],
+
+    "validacaoPrecoDisponibilidade":[
+
+        {
+            "PrecoVenda": 2699.00,     
+            "produtoIndisponivel": "Pedido não pode ser finalizado pois o valor do produto 1001294413 foi alterado (Valor Informado: 2699 – Valor Correto: 2599.00)."
+        },
+
+        {
+            "PrecoVenda": 2649.00
+        }
+    
+    ],
+
+    "validacaoFrete":[
+
+        {
+            "Codigo": 3046,   
+            "Quantidade": 1000,      
+            "SkuSemEstoque": "Não é possível efetuar a entrega no CEP informado."
+        },
+        {
+            "valorFrete": 41.79,      
+            "SkuSemEstoque": "Pedido não pode ser finalizado, pois o valor do frete foi alterado(Valor Informado: 41.79 -- Valor Correto: 28.40)."
+        },
+        {
+            "Codigo": 11526505,      
+            "NormalVariosItens": "NormalVariosItens"
+        },
+        {
+            "PrecoVenda": 0,      
+            "NormalUmItem": "NormalVariosItens"
+        },
+        {
+            "Quantidade": 3,      
+            "NormalVariosItens": "NormalVariosItens"
+        },
+
+        {
+            "cep": "09510125"    
+        }
+      ],
+    
+   
+      "validacaoCNPJ":[
+
+        {
+          "CNPJ":"11.094.546/0001-75",
+          "ClienteNaoAssociadoaCampanha" : "A campanha não pertence ao cliente informado."
+          
+        },
+    
+        {
+          "CNPJ":"61.602.199/0001-12",
+          "ClientesemEndCobrancaAssociado" : "Campanha sem endereço de cobrança associado"
+        },
+    
+        {
+          "CNPJ":"29.923.959/0001-80",
+          "ClienteInativo" : "ClienteInativo - Cliente inativo.(ErroValidacao)"
+        },
+      
+        {
+          "CNPJ":"65.972.247/0001-15",
+          "ContratoVigenciaExpirado" : "Contrato Vigência Expirado"
+        }
+    
+      ],
+
+      "padraoBeneficioFreteAcrescimoRegiaoMarcaPorcentagem":
+      {
+        "Produtos": [
+        {
+            "Codigo": 21621,
+            "Quantidade": 1,
+            "PrecoVenda": 0
+        }     
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "dadosEntrega": {
+            "valorFrete": 43.48
+        },
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+
+      "padraoBeneficioFreteAcrescimoRegiaoProdutoPorcentagem":
+      {
+        "Produtos": [
+        {
+            "Codigo": 867693,
+            "Quantidade": 1,
+            "PrecoVenda": 0
+        }     
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "dadosEntrega": {
+            "valorFrete": 43.48
+        },
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+
+    "padraoBeneficioFreteDescontoRegiaoProdutoPorcentagem":
+      {
+        "Produtos": [
+        {
+            "Codigo": 4688134,
+            "Quantidade": 1,
+            "PrecoVenda": 0
+        }     
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "dadosEntrega": {
+            "valorFrete": 43.48
+        },
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+
+    "padraoBeneficioFreteDescontoCidadeCategoriaPorcentagem":
+      {
+        "Produtos": [
+        {
+            "Codigo": 411048,
+            "Quantidade": 1,
+            "PrecoVenda": 0
+        }     
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "dadosEntrega": {
+            "valorFrete": 43.48
+        },
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "09510125",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+
+    "padraoBeneficioFreteDescontoRegiaoMarcaPorcentagem":
+    {
+        "Produtos": [
+        {
+            "Codigo": 400725,
+            "Quantidade": 1,
+            "PrecoVenda": 0
+        }     
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "dadosEntrega": {
+            "valorFrete": 43.48
+        },
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+
+    "padraoBeneficioFreteDescontoRegiaoProdutoMaximoPorcentagem":
+    {
+        "Produtos": [
+        {
+            "Codigo": 55016473,
+            "Quantidade": 1,
+            "PrecoVenda": 0
+        }     
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "dadosEntrega": {
+            "valorFrete": 43.48
+        },
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+
+    "padraoBeneficioFreteAcrescimoRegiaoProdutoMinimoPorcentagem":
+    {
+        "Produtos": [
+        {
+            "Codigo": 11008815,
+            "Quantidade": 1,
+            "PrecoVenda": 0
+        }     
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "dadosEntrega": {
+            "valorFrete": 43.48
+        },
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+
+    "padraoBeneficioFreteFixoRegiaoCategoriaReais":
+    {
+        "Produtos": [
+        {
+            "Codigo": 411048,
+            "Quantidade": 1,
+            "PrecoVenda": 0
+        }     
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "dadosEntrega": {
+            "valorFrete": 43.48
+        },
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+
+    "padraoBeneficioFreteFixoRegiaoCategoriaPorcentagem":
+    {
+        "Produtos": [
+        {
+            "Codigo": 11008879,
+            "Quantidade": 1,
+            "PrecoVenda": 0
+        }     
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "dadosEntrega": {
+            "valorFrete": 43.48
+        },
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+    "criarPedidoProdutoUnico":
+    {
+        "Produtos": [
+        {
+            "Codigo": 55014764,
+            "Quantidade": 1,
+            "PrecoVenda": 0,
+            "IdLojista": 10037
+        }        
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+    "criarPedidoKit":
+    {
+        "Produtos": [
+        {
+            "Codigo": 1001294523,
+            "Quantidade": 1,
+            "PrecoVenda": 0,
+            "IdLojista": 10037
+        }        
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+    "criarPedidoKitComNormal":
+    {
+        "Produtos": [
+        {
+            "Codigo": 1001294523,
+            "Quantidade": 1,
+            "PrecoVenda": 0,
+            "IdLojista": 10037
+        },
+        {
+            "Codigo": 55014764,
+            "Quantidade": 1,
+            "PrecoVenda": 0,
+            "IdLojista": 10037
+        }        
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    },
+    "criarPedidoKitQtdeSuperior":
+    {
+        "Produtos": [
+        {
+            "Codigo": 1001294523,
+            "Quantidade": 2,
+            "PrecoVenda": 0,
+            "IdLojista": 10037
+        }        
+        ],
+        "campanha": 2604,
+        "cnpj": "57.822.975/0001-12",
+        "pedidoParceiro": 0,
+        "valorFrete": 0,
+        "aguardarConfirmacao": true,
+        "optantePeloSimples": true,
+        "destinatario": {
+            "nome": "teste",
+            "cpfCnpj": "435.375.660-50",
+            "email": "teste@teste.com"
+        },
+        "enderecoEntrega": {
+            "cep": "02116001",
+            "estado": "SP",
+            "logradouro": "Rua Silva",
+            "cidade": "São Caetano do Sul",
+            "numero": 63,
+            "referencia": "teste",
+            "bairro": "Centro",
+            "complemento": "teste",
+            "telefone": "22333333",
+            "telefone2": "22333335",
+            "telefone3": "22333336"
+        }
+    }
+}
+
+

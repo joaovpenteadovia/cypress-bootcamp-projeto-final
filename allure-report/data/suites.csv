@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Sep 30 16:19:27 BRT 2022","Fri Sep 30 16:19:29 BRT 2022","2160","","Criação de Pedidos CB - Sit","","","","Criar Pedido - Kit ",""
+"passed","Fri Sep 30 16:19:34 BRT 2022","Fri Sep 30 16:19:37 BRT 2022","2757","","Criação de Pedidos CB - Sit","","","","Criar Pedido - Kit Qtde > 1",""
+"passed","Fri Sep 30 16:19:29 BRT 2022","Fri Sep 30 16:19:34 BRT 2022","4892","","Criação de Pedidos CB - Sit","","","","Criar Pedido - Kit + Normal",""
+"passed","Fri Sep 30 16:19:25 BRT 2022","Fri Sep 30 16:19:27 BRT 2022","1943","","Criação de Pedidos CB - Sit","","","","Criar Pedido - Produto Normal",""

@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://api-integracao-casasbahia.sit-b2b.net",
+    "allure": "true",
+    "ambiente": "sit",
+    "ApiPreco": "http://api-preco-b2b-sit.via.com.br/skus/parceiros"
+}

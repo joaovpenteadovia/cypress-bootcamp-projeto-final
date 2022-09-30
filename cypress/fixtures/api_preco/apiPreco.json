@@ -1,0 +1,220 @@
+{
+  "dadosUrlApiPrecoSkuKitENormal": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 1001104832
+    },
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 11526505
+    }
+  ],
+  "dadosUrlApiPrecoSkuKitEKit": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 1001104832
+    },
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 1001113102
+    }
+  ],
+  "dadosUrlApiPrecoSkuNormalENormal": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 867670
+    },
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 426758
+    }
+  ],
+  "dadosUrlApiPrecoSkuKit": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 1001104832
+    },
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 11526505
+    }
+  ],
+  "criarPedidoDadosUrlApiPrecoSkuKitENormal": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 1001104832
+    },
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 11526505
+    }
+  ],
+  "dadosUrlApiPrecoUmProduto": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 11526505
+    }
+  ],
+  "dadosUrlApiPrecoProdutoSkuKit": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 1001104832
+    }
+  ],
+  "validacaoApiPreco": [
+    {
+      "idsSkus": 8890,
+      "produtoIndisponivel": "Produto Indisponível"
+    },
+    {
+      "idCampanha": 2302,
+      "campanhaNaoParceiro": "Campanha não encontrada para o parceiro informado"
+    },
+    {
+      "idCampanha": 9999,
+      "campanhaInvalida": "Campanha não encontrada"
+    },
+    {
+      "idsSkus": 1806126,
+      "precoLojistaInvalido": "Preço Lojista não encontrado"
+    },
+    {
+      "idLojista": 9999,
+      "precoLojistaInvalido": "UnidadeNegocio é não encontrado"
+    }
+  ],
+  "padraoBeneficioFreteAcrescimoRegiaoMarcaPorcentagem": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 21621
+    }
+  ],
+  "padraoBeneficioFreteAcrescimoRegiaoProdutoPorcentagem": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 867693
+    }
+  ],
+  "padraoBeneficioFreteDescontoRegiaoProdutoPorcentagem": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 4688134
+    }
+  ],
+  "padraoBeneficioFreteDescontoCidadeCategoriaPorcentagem": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 411048
+    }
+  ],
+  "padraoBeneficioFreteDescontoRegiaoMarcaPorcentagem": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 400724
+    }
+  ],
+  "padraoBeneficioFreteDescontoRegiaoProdutoMaximoPorcentage": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 55016473
+    }
+  ],
+  "padraoBeneficioFreteAcrescimoRegiaoProdutoMinimoPorcentagem": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 11008815
+    }
+  ],
+  "padraoBeneficioFreteFixoRegiaoCategoriaReais": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 411048
+    }
+  ],
+  "padraoBeneficioFreteFixoRegiaoCategoriaPorcentagem": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 11008879
+    }
+  ],
+  "dadosUrlPrecoProdutoUnico": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 55014764
+    }
+  ],
+  "dadosUrlPrecoKit": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 1001294523
+    }
+  ],
+  "dadosUrlPrecoKitComUnico": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 1001294523
+    },
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 55014764
+    }
+  ],
+  "dadosUrlPrecoKitQtdeSuperior": [
+    {
+      "idParceiro": 2,
+      "idCampanha": 2604,
+      "idLojista": 10037,
+      "idsSkus": 1001294523
+    }
+  ]
+}

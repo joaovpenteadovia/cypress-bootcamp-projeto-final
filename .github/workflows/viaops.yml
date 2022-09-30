@@ -2,10 +2,6 @@ name: ViaOps CI
 on:
   pull_request:
     branches: [ master, release/develop ]
-
-  # schedule: deve utilizar quando for necessário agendamendo para execução
-      # run at *minute  *hours *month *months of the years *days of week
-    # - cron: "* * * * *"
     
   workflow_dispatch:
     inputs:

@@ -1,0 +1,794 @@
+{   
+  "requisicaoNormalEKit":
+  {
+    "IdCampanha": 2604,
+    "CNPJ": "57.822.975/0001-12",
+    "CEP": "02116001",
+    "Produtos": [ 
+      {
+        "Codigo": 1001104832,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      },
+      {
+        "Codigo": 55014766,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      }
+    ]
+  },
+   
+    "requisicaoKitEKit":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 1001294413,
+          "Quantidade": 3,
+          "IdLojista": 10037
+        },
+        {
+          "Codigo": 1001113102,
+          "Quantidade": 3,
+          "IdLojista": 10037
+        }
+      ]
+    },
+  
+
+  "requisicaoNormalENormal":
+  {
+    "IdCampanha": 2604,
+    "CNPJ": "57.822.975/0001-12",
+    "CEP": "02116001",
+    "Produtos": [ 
+      {
+        "Codigo": 426758,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      },
+      {
+        "Codigo": 867670,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      }
+         
+    ]
+  },
+
+  "requisicaoSkuNormal":
+  {
+    "IdCampanha": 2604,
+    "CNPJ": "57.822.975/0001-12",
+    "CEP": "02116001",
+    "Produtos": [ 
+      {
+        "Codigo": 11526505,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      }
+    ]
+  },
+
+  "requisicaoSkuKit":
+  {
+    "IdCampanha": 2604,
+    "CNPJ": "57.822.975/0001-12",
+    "CEP": "02116001",
+    "Produtos": [ 
+      {
+        "Codigo": 1001104832,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      }
+    ]
+  },
+
+  "requisicaoSkuVariasUnidades":
+  {
+    "IdCampanha": 2604,
+    "CNPJ": "57.822.975/0001-12",
+    "CEP": "02116001",
+    "Produtos": [ 
+      {
+        "Codigo": 1001294413,
+        "Quantidade": 10,
+        "IdLojista": 10037
+      }
+    ]
+  },
+
+  "requisicaoSemProdutos":
+  {
+    "IdCampanha": 2604,
+    "CNPJ": "57.822.975/0001-12",
+    "CEP": "02116001",
+    "Produtos": []
+  },
+
+  "requisicaoProdutosRepetidos":
+  {
+    "IdCampanha": 2604,
+    "CNPJ": "57.822.975/0001-12",
+    "CEP": "02116001",
+    "Produtos": [ 
+      {
+        "Codigo": 11639797,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      },
+      {
+        "Codigo": 11639797,
+        "Quantidade": 1,
+        "IdLojista": 10037
+      }
+    ]
+  },
+
+  "validacaoObrigatoriedade":[
+
+    {
+      "CEP": "",
+      "obrigatoriedadeCEP": "Request inválido\r\nO CEP é um parâmetro obrigatório."
+    },
+
+    {
+      "CEP": "01546-09000", 
+      "limiteMaximoCEP": "O campo CEP não contém um formato correto."
+    }, 
+
+    {
+      "CNPJ": null,
+      "obrigatoriedadeCNPJ": "Request inválido\r\nO CNPJ é um parâmetro obrigatório."
+    }, 
+
+    {
+      "IdCampanha": 0,      
+      "obrigatoriedadeIdCampanha": "Request inválido\r\nO IdCampanha é um parâmetro obrigatório."
+    },
+
+    {
+      "obrigatoriedadeDadosProdutos": "Request inválido\r\nO(s) produto(s) deve(m) ser informado(s)."
+    },
+
+    {
+      "Codigo": 0,
+      "obrigatoriedadeSKU": "Request inválido\r\nO código do produto deve ser informado!"
+    },
+
+    {
+      "Quantidade": 0,
+      "obrigatoriedadeQuantidade": "Request inválido\r\nA quantidade do produto deve ser informada!"
+    },
+
+    {
+      "mensagemErro":"Ocorreram erros de validação"
+    },
+
+    {
+      "CEP": "01546-0", 
+      "limiteMinimoCEP": "O campo CEP não contém um formato correto."
+    },
+    
+    {
+      "mensagemErroProdutos": "Ocorreram erros nos produtos informados."
+    },
+
+    {
+      "mensagemErroProdutosFrete": "Erro ao calcular frete."
+    }
+
+  ],
+
+  "validacaoCNPJ":[
+
+    {
+      "CNPJ":"11.094.546/0001-75",
+      "ClienteNaoAssociadoaCampanha" : "A campanha não pertence ao cliente informado."
+      
+    },
+
+    {
+      "CNPJ":"61.602.199/0001-12",
+      "ClientesemEndCobrancaAssociado" : "Campanha sem endereço de cobrança associado"
+    },
+
+    {
+      "CNPJ":"29.923.959/0001-80",
+      "ClienteInativo" : "ClienteInativo - Cliente inativo.(ErroValidacao)"
+    },
+  
+    {
+      "CNPJ":"65.972.247/0001-15",
+      "ContratoVigenciaExpirado" : "Contrato Vigência Expirado"
+    }
+
+  ],
+
+
+   "validacaoToken":[
+      
+    {
+      "tokenOk": "H9xO4+R8GUy+18nUCgPOlg=="
+    },
+   
+    {
+      "tokenInvalido": "xptoErro"
+    },
+  
+    {
+      "tokenNulo": ""
+    },
+
+    {
+      "tokenValidoParcInativo": "2tcq9srN40299EvXZMcVtA=="
+    },
+
+    {
+      "tokenValidoParcSemEndCobrancaAssociado": "1srkJsvX7kOCSO/297xf9Q=="
+    },
+
+    {
+      "tokenCampanhaBeneficioValorFixo": "h7PCHc32HUKI+vgvVcCklA=="
+    },
+
+    {
+      "token3p": "AjODWSzsJEiYD7OVaV17hw=="
+    },
+
+    {
+      "token3pDesabilitado": "5eSP+GjmSEuQ0CHuTnp3Kg=="
+    }
+
+  ],
+
+  "validacaoCampanha":[
+
+    {
+      "IdCampanha": 9999,      
+      "campanhaInvalida": "CampanhaNaoEncontrada - Campanha 9999 não encontrada.(ErroValidacao)"
+    },
+
+    {
+      "IdCampanha": 2302,      
+      "campanhaNaoParceiro": "A campanha não pertence ao cliente informado."
+    },
+
+    {
+      "IdCampanha": 3024,      
+      "campanhaExpirada": "Campanha fora de vigência."
+    },
+
+    {
+      "IdCampanha": 3076,      
+      "campanhaClienteInativo": "Cliente inativo."
+    },
+
+    {
+      "IdCampanha": 2448,      
+      "campanhaSemEndCobranca": "Endereço de cobrança não está associado."
+    }
+
+  ],
+
+  "validacaoContrato":[
+
+    {
+      "IdCampanha": 1420,      
+      "contratoExpirado": "Contrato fora de vigência."
+    }
+  ],
+
+  "validacaoSkuProduto":[
+
+    {
+      "Codigo": 9999,     
+      "produtoInexistente": "Produto não encontrado."
+    }
+  ],
+
+  "validacaoPrecoDisponibilidade":[
+
+    {
+      "Codigo": 8890,     
+      "produtoIndisponivel": "Produto indisponível."
+    },
+
+    {
+      "Codigo": 1806126,      
+      "precoLojistaNaoEncontrado": "Produto não encontrado."
+    },
+
+    {
+      "idLojista": 9999,      
+      "precoLojistaInvalido": "3P inativo para o parceiro indicado."
+    },
+
+    {
+      "Quantidade": 3
+    },
+
+    {
+      "CEP": "02116001"
+    },
+    {
+      "Codigo": 6346453,     
+      "produtoIndisponivel": "Produto indisponível."
+    }
+  ],
+
+  "validacaoCEP":[
+
+    {
+      "CEP": "01546-09000", 
+      "limiteMaximoCEP": "O campo CEP não contém um formato correto."
+    }, 
+
+    {
+      "CEP": "01546-0", 
+      "limiteMinimoCEP": "O campo CEP não contém um formato correto."
+    },
+
+    {
+      "CEP": 99990977,     
+      "CEPInexistente": "CEP não encontrado."
+    },
+
+     {
+      "CEP": 99990978,     
+      "CEPDesatualizadoInexistenteAmbos": "CEP não encontrado."
+    }
+  ],
+
+  "validacaoFrete":[
+
+    {
+      "Codigo": 1000046290,     
+      "SkuInexistente": "Produto indisponível."
+    },
+    {
+      "Codigo": 3046,   
+      "Quantidade": 10000,   
+      "SkuSemEstoque": "Produto não pode ser entregue na região informada"
+    },
+    {
+      "Codigo": 1585175166,  
+      "CEP": "02116001",  
+      "SkuInexistenteRegiao": "Produto não encontrado."
+    },
+    {
+      "Codigo": 3046,   
+      "Quantidade": 1000,      
+      "SkuSemEstoque": "Não é possível efetuar a entrega no CEP informado."
+    },
+    {
+      "Quantidade": 3,      
+      "NormalVariosItens": "NormalVariosItens"
+    },
+    {
+      "Codigo": 8021055,         
+      "CEP": "02116001",  
+      "SkuInexistenteRegiao": "Produto não encontrado."
+    }
+  ],
+
+    "padraoBeneficioFreteAcrescimoRegiaoProdutoPorcentagem":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 867693,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "negativoPadraoBeneficioFreteAcrescimoRegiaoProdutoPorcentagem":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 10502423,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteAcrescimoCidadeCategoriaReais":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 867693,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteAcrescimoCidadeCategoriaMaiorReais":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 867693,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteDescontoRegiaoProdutoPorcentagem":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 4688134,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "negativoPadraoBeneficioFreteDescontoRegiaoProdutoPorcentagem":
+    {
+      "IdCampanha": 3710,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 196107,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteDescontoRegiaoMarcaPorcentagem":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 400725,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "negativoPadraoBeneficioFreteDescontoRegiaoMarcaPorcentagem":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 1001294413,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+    
+    "padraoBeneficioFreteDescontoCidadeCategoriaPorcentagem":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "09510125",
+      "Produtos": [ 
+        {
+          "Codigo": 411048,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteFixoRegiaoProdutoPorcentagem":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 1990239,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteFixoCidadeCategoriaReais":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 867693,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteFixoRegiaoCategoriaReais":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 411048,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "negativoPadraoBeneficioFreteFixoRegiaoCategoriaReais":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "66020390",
+      "Produtos": [ 
+        {
+          "Codigo": 1001307417,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+    
+    "padraoBeneficioFreteFixoRegiaoCategoriaCompraMenorIgualReais":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 55017288,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteFixoRegiaoCategoriaPorcentagem":
+    {
+
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 11008879,
+          "Quantidade": 1,
+          "IdLojista": 10037
+
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteAcrescimoRegiaoMarcaPorcentagem":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 21621,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "negativoPadraoBeneficioFreteAcrescimoRegiaoMarcaPorcentagem":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 3061127,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteAcrescimoRegiaoCategoriaCompraIgualReais":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 55018094,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteAcrescimoCidadeCategoriaCompraMaiorReais":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 55018094,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteDescontoRegiaoCategoriaCompraMaiorIgualReais":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 1000054494,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteDescontoRegiaoCategoriaCompraMenorReais":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 22339,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "padraoBeneficioFreteDescontoRegiaoProdutoMaximoPorcentagem":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 55016473,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "negativoPadraoBeneficioFreteDescontoRegiaoProdutoMaximoPorcentagem":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 1001307417,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+
+    "padraoBeneficioFreteAcrescimoRegiaoProdutoMinimoPorcentagem":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "02116001",
+      "Produtos": [ 
+        {
+          "Codigo": 11008815,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "negativoPadraoBeneficioFreteAcrescimoRegiaoProdutoMinimoPorcentagem":
+    {
+      "IdCampanha": 2604,
+      "CNPJ": "57.822.975/0001-12",
+      "CEP": "78005035",
+      "Produtos": [ 
+        {
+          "Codigo": 11008815,
+          "Quantidade": 1,
+          "IdLojista": 10037
+        }
+      ]
+    },
+
+    "CalcularCarrinho3p":
+      {
+        "IdCampanha": 3234,
+        "CNPJ": "18.352.826/0001-85",
+        "CEP": "02116001",
+        "Produtos": [ 
+          {
+            "Codigo": 11689356,
+            "Quantidade": 1,
+            "IdLojista": 17969
+          }
+        ]
+      },
+
+      "CalcularCarrinho3pmuitasunidades":
+      {
+        "IdCampanha": 3234,
+        "CNPJ": "18.352.826/0001-85",
+        "CEP": "02116001",
+        "Produtos": [ 
+          {
+            "Codigo": 11689356,
+            "Quantidade": 10,
+            "IdLojista": 17969
+          }
+        ]
+      },
+
+      "CalcularCarrinho3pOutroParceiro":
+      {
+        "IdCampanha": 1696,
+        "CNPJ": "05.345.379/0001-95",
+        "CEP": "02116001",
+        "Produtos": [ 
+          {
+            "Codigo": 11008815,
+            "Quantidade": 1,
+            "IdLojista": 152073
+          }
+        ]
+      },
+
+      "massa3p":[
+
+      {
+        "LojistaInativo": 38790
+      },
+
+      {
+        "LojistaInexistente": 12345
+      },
+
+      {
+        "LojistaNaoPertenceParceiro": 200532
+      },
+
+      {
+        "CampanhaNaoPertence": 2604
+      },
+
+      {
+        "CampanhaDesabilitada": 3235
+      }
+    ]
+  }

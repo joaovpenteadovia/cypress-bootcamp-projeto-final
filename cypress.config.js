@@ -15,7 +15,7 @@ module.exports = defineConfig({
       grepTags(config)
 
       // if version not defined, use local
-      const version = config.env.version || 'prd'
+      const version = config.env.version || 'sit'
 
       // load env from json
       config.env = require(`./cypress/config/${version}.json`);
